@@ -1,0 +1,7 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
