@@ -1,0 +1,10 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\bin\Debug\Swimming Schedule.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\bin\Debug\Swimming Schedule.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\bin\Debug\Swimming Schedule.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\obj\Debug\Swimming Schedule.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\obj\Debug\Swimming_Schedule.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\obj\Debug\Swimming_Schedule.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\obj\Debug\Swimming Schedule.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\obj\Debug\Swimming Schedule.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\obj\Debug\Swimming Schedule.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Swimming Schedule\Swimming Schedule\obj\Debug\Swimming Schedule.pdb
