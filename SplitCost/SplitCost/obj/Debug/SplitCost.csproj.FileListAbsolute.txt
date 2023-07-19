@@ -1,0 +1,20 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\bin\Debug\SplitCost.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\bin\Debug\SplitCost.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\bin\Debug\SplitCost.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\obj\Debug\SplitCost.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\obj\Debug\SplitCost.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\obj\Debug\SplitCost.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\SplitCost\SplitCost\obj\Debug\SplitCost.pdb
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\bin\Debug\SplitCost.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\bin\Debug\SplitCost.exe
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\bin\Debug\SplitCost.pdb
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\obj\Debug\SplitCost.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\obj\Debug\SplitCost.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\obj\Debug\SplitCost.exe
+C:\Users\鈴木陽翔(zeal22410136)\Documents\Visual Studio 2019 フォルダ\SplitCost\SplitCost\obj\Debug\SplitCost.pdb
