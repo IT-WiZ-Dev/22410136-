@@ -1,0 +1,10 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\bin\Debug\WeekOfDays.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\bin\Debug\WeekOfDays.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\bin\Debug\WeekOfDays.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\obj\Debug\WeekOfDays.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\obj\Debug\WeekOfDays.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\obj\Debug\WeekOfDays.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\obj\Debug\WeekOfDays.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\obj\Debug\WeekOfDays.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\obj\Debug\WeekOfDays.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\WeekOfDays\WeekOfDays\obj\Debug\WeekOfDays.pdb
