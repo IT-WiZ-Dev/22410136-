@@ -1,0 +1,10 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\bin\Debug\Fising.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\bin\Debug\Fising.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\bin\Debug\Fising.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\obj\Debug\Fising.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\obj\Debug\Fising.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\obj\Debug\Fising.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\obj\Debug\Fising.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\obj\Debug\Fising.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\obj\Debug\Fising.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Fising\Fising\obj\Debug\Fising.pdb
