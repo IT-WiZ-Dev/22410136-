@@ -1,0 +1,11 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\bin\Debug\Multi Alarm.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\bin\Debug\Multi Alarm.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\bin\Debug\Multi Alarm.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi Alarm.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi_Alarm.Form1.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi_Alarm.Form2.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi_Alarm.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi Alarm.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi Alarm.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi Alarm.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Multi Alarm\Multi Alarm\obj\Debug\Multi Alarm.pdb
