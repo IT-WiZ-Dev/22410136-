@@ -1,0 +1,9 @@
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\bin\Debug\Gues.exe.config
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\bin\Debug\Gues.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\bin\Debug\Gues.pdb
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\obj\Debug\Gues.csproj.AssemblyReference.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\obj\Debug\Gues.Properties.Resources.resources
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\obj\Debug\Gues.csproj.GenerateResource.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\obj\Debug\Gues.csproj.CoreCompileInputs.cache
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\obj\Debug\Gues.exe
+C:\Users\鈴木陽翔(zeal22410136)\source\repos\Gues\Gues\obj\Debug\Gues.pdb
